@@ -5,7 +5,7 @@ This random sentence generator is just for fun! These sentences can provide humo
 ## Live Demo
 
 You can try the generator directly in you web browser here:
-
-[cing alt-"Play Button" src-"" />1
-https://replit.com/@SmileSmile3/RandomSentencesGenerator#Main.cs)
+https://replit.com/@SmileSmile3/RandomSentencesGenerator#Main.cs
 You can take a screenshot from Replit.com and paste it into the
+
+![image](https://user-images.githubusercontent.com/107812744/196657688-851942e6-a0f0-449e-bd87-0017f458feb7.png)
