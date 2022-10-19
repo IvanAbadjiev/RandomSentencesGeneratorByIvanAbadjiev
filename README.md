@@ -6,6 +6,6 @@ This random sentence generator is just for fun! These sentences can provide humo
 
 You can try the generator directly in you web browser here:
 https://replit.com/@SmileSmile3/RandomSentencesGenerator#Main.cs
-You can take a screenshot from Replit.com and paste it into the
 
-![image](https://user-images.githubusercontent.com/107812744/196657688-851942e6-a0f0-449e-bd87-0017f458feb7.png)
+
+![image](https://user-images.githubusercontent.com/107812744/196658300-3c2f40a5-d8ec-4347-aafd-cce6f1ed6ff2.png)
